@@ -1,4 +1,4 @@
-# Week 0
+# Week 0: Functions, Variables
 
 ### functions
 
