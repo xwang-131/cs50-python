@@ -1,10 +1,8 @@
 # Week 1: Conditionals
 
-### if
-
-### elif
-
-### else
+- if
+- elif
+- else
 
 ```python
 x = int(input("What's x? "))
@@ -17,9 +15,8 @@ else:
     print("x is equal to y")
 ```
 
-### or
-
-### and
+- or
+- and
 
 ```python
 x = int(input("What's x? "))
@@ -29,9 +26,8 @@ else:
     print("Odd")
 ```
 
-### bool
-
-- True, False
+- bool
+  - True, False
 
 ```python
 def main():
@@ -47,7 +43,7 @@ def is_even(n):
 main()
 ```
 
-### match
+- match
 
 ```python
 name = input("What's your name? ")

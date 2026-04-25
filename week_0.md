@@ -1,18 +1,12 @@
 # Week 0: Functions, Variables
 
-### functions
-
-### arguments
-
-### variables
-
-### parameters
-
-### str
-
-### int
-
-### float
+- functions
+- arguments
+- variables
+- parameters
+- str
+- int
+- float
 
 ```python
 x = float(input("What's x? "))
@@ -28,7 +22,7 @@ z = x / y
 print(f"{z:.2f}") # format way to round to 2 digits
 ```
 
-### def
+- def
 
 ```python
 def hello():
@@ -59,9 +53,8 @@ def hello(to="world"):
 main() # call the function
 ```
 
-### scope
-
-### return
+- scope
+- return
 
 ```python
 def main():
